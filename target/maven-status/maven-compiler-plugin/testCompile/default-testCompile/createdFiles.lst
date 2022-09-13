@@ -1,0 +1,7 @@
+event\TestEventBuilder.class
+event\TestEventMessage.class
+eventbus\amqpeventbus\RabbitAmqpEventBusTest.class
+event\TestEventConsumer.class
+event\EventChecker.class
+event\TestEvent.class
+event\EventTest.class
